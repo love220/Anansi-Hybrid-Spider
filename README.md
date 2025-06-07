@@ -1,8 +1,8 @@
 # Anansi-Hybrid-Spider
 This robot is inspired from West African folklore. Anansi is a spider trickster god known for intelligence and storytelling. 
-Here's a GitHub-ready description (README-style) for your quadruped walking robot project using inverse kinematics:
 
 ---
+
 This project implements a simple quadruped robot with **4 legs** (each having a hip and a knee joint), capable of **forward walking using inverse kinematics (IK)**. The robot uses SG90 micro servos driven via the **PCA9685 servo driver**, controlled through an Arduino-UNO board.
 
 ### ✨ Features
